@@ -1,17 +1,10 @@
 <h2 align="left">Moin moin👋! Mein Name ist Amirhossein. Und ich bin ein AI-Ingenieur aus Teheran, Iran.</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amirhosseinghanipour&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amirhosseinghanipour&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://64.media.tumblr.com/06337da55a154e92c4110aef6a29e33f/bc430ba1597eddc7-1a/s540x810/aef93a129f10f555f5d96423f13d8ff2a7025617.gif"  />
-
-###
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Famirhosseinghanipour%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/d3v1ll3n)](https://twitter.com/d3v1ll3n)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amirhosseinghanipour/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/d3v1ll3n/)](https://www.instagram.com/d3v1ll3n)
+[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=#)](#)
+[![Github](https://img.shields.io/github/followers/amirhosseinghanipour?label=Follow&style=social)](https://github.com/amirhosseinghanipour)
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="30" alt="apachekafka logo"  />
