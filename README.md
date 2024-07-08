@@ -125,6 +125,11 @@
 
 ###
 
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=amirhosseinghanipour&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
 <div align="left">
   <a href="https://instagram.com/d3v1ll3n" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
