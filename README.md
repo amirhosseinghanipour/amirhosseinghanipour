@@ -11,6 +11,22 @@
 
 ###
 
+![](https://github-readme-stats.vercel.app/api?username=amirhosseinghanipour&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false)
+
+###
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=amirhosseinghanipour&theme=github_dark_dimmed&hide_border=true)
+
+###
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=amirhosseinghanipour&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+###
+
+![](https://github-contributor-stats.vercel.app/api?username=amirhosseinghanipour&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
+
+###
+
 <h2>Skills</h2>
 
 ###
@@ -126,14 +142,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  />
 </div>
-
-###
-
-## Github Stats  
-![](https://github-readme-stats.vercel.app/api?username=amirhosseinghanipour&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=amirhosseinghanipour&theme=github_dark_dimmed&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amirhosseinghanipour&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://github-contributor-stats.vercel.app/api?username=amirhosseinghanipour&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)<br/>
 
 ###
 
