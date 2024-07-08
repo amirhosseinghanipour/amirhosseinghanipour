@@ -132,17 +132,8 @@
 ## Github Stats  
 ![](https://github-readme-stats.vercel.app/api?username=amirhosseinghanipour&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=amirhosseinghanipour&theme=github_dark_dimmed&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amirhosseinghanipour&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-contributor-stats.vercel.app/api?username=amirhosseinghanipour&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
-
-<div align="left">
-  <a href="https://instagram.com/d3v1ll3n" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://linkedin.com/in/amirhosseinghanipour" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=amirhosseinghanipour&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-contributor-stats.vercel.app/api?username=amirhosseinghanipour&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)<br/>
 
 ###
 
