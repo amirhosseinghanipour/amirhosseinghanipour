@@ -11,11 +11,14 @@
 
 ###
 
+<h2>Skills</h2>
+
+###
+
 <img align="right" height="150" src="https://64.media.tumblr.com/06337da55a154e92c4110aef6a29e33f/bc430ba1597eddc7-1a/s540x810/aef93a129f10f555f5d96423f13d8ff2a7025617.gif"  />
 
 ###
 
-<h2>Skills</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="30" alt="apachekafka logo"  />
   <img width="12" />
