@@ -130,9 +130,10 @@
 ###
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=amirhosseinghanipour&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
+![](https://github-readme-stats.vercel.app/api?username=amirhosseinghanipour&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=amirhosseinghanipour&theme=github_dark_dimmed&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=amirhosseinghanipour&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-contributor-stats.vercel.app/api?username=amirhosseinghanipour&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
 
 <div align="left">
   <a href="https://instagram.com/d3v1ll3n" target="_blank">
@@ -148,5 +149,10 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/amirhosseinghanipour/amirhosseinghanipour/output/snake.svg" alt="Snake animation" />
+
+###
+
+---
+[![](https://visitcount.itsvg.in/api?id=amirhosseinghanipour&icon=7&color=0)](https://visitcount.itsvg.in)
 
 ###
