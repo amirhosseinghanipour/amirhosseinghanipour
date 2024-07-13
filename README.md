@@ -114,9 +114,6 @@
 
 <br clear="both">
 
-## Contribution snake
-<img src="https://raw.githubusercontent.com/amirhosseinghanipour/amirhosseinghanipour/output/snake.svg" alt="Snake animation" />
-
 ---
 [![](https://visitcount.itsvg.in/api?id=amirhosseinghanipour&icon=7&color=0)](https://visitcount.itsvg.in)
 
