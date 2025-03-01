@@ -14,9 +14,9 @@
   -----------------
   Name: Amirhossein Ghanipour
   OS: Arch x86_64
-  Languages: ["Python", "Rust", "JavaScript", "Bash"]
-  Intrests: ["ArtificialIntelligence", "TUI", "WebApp", "Linux", "FOSS"]  
-  Uptime: 24 Years
+  Languages: ["Python", "Rust", "C", "JavaScript"]
+  Intrests: ["ArtificialIntelligence", "Cloud", "QuantumComputing", "Sales", "GaneDev"]  
+  Uptime: 25 Years
   ```
 </div>
 
