@@ -3,14 +3,14 @@
 [![Github](https://img.shields.io/github/followers/amirhosseinghanipour?label=Follow&style=social)](https://github.com/amirhosseinghanipour)
 
 ```css
-┌[amirhosseinghanipour@git]-(~)
+┌[amirhosseinghanipour@github]-(~)
 └> mefetch
 ```
 
 <div style="display:block;text-align:left"><img align="left" src="https://user-images.githubusercontent.com/56447720/215329483-0f7dcda1-71a7-495a-9097-2393af297636.png" border="0" style="width:156px;">
   
   ```css
-  amirhosseinghanipour@GitHub
+  amirhosseinghanipour@github
   -----------------
   Name: Amirhossein Ghanipour
   OS: Arch x86_64
