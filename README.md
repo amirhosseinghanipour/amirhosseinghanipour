@@ -25,8 +25,7 @@
   <samp>
     $  <a href="https://gist.github.com/amirhosseinghanipour" target="_blank">gists</a> .
     <a href="https://linkedin.com/in/amirhosseinghanipour" target="_blank">linkedin</a> .
-    <a href="https://t.me/BosonOfNeverland" target="_blank">telegram</a> .
-    <a href="https://twitter.com/d3v1ll3n" target="_blank">twitter</a>  $
+    <a href="https://twitter.com/v1ll3n9" target="_blank">twitter</a>  $
   </samp>
 </p>
 
