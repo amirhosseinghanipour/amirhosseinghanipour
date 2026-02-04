@@ -12,9 +12,9 @@
   -----------------
   Name: Amirhossein Ghanipour
   OS: Arch x86_64
-  Languages: ["Rust", "C/C++", "Go", "Python", "JavaScript/TypeScript"]
-  Intrests: ["Linux", "RTOS", "Kernel Hardening", "LSM", "eBPF & XDP", "Artificial Intelligence"]  
-  Uptime: 25 Years
+  Languages: ["Rust", "C/C++", "Python", "Dart", "JavaScript"]
+  Intrests: ["Linux", "AI/ML", "RTOS", "Kernel Hardening", "Android", "LSM", "eBPF & XDP", "Artificial Intelligence"]  
+  Uptime: 26 Years
   ```
 </div>
 
