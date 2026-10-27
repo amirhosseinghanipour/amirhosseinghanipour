@@ -25,14 +25,14 @@
 <a href="https://crates.io/users/amirhosseinghanipour" target="_blank"><img src="https://img.shields.io/badge/crates.io-000000?style=for-the-badge&logo=rust&logoColor=white" height="30"></a>&nbsp;
 </p>
 
-Hello, world! I'm Amirhossein Ghanipour, and I write Rust when I want things fast and correct, Dart when I want things pretty, and spend a suspicious amount of time teaching machines to be smarter than me. I'm the kind of person who gets genuinely excited about a clean abstraction or a model that finally converges. Fully convinced that good software should feel a little bit like magic. Always open to interesting problems, collaborations, or opportunities to build something people actually rely on. Feel free to reach out.
+Hello, world! I'm Amirhossein Ghanipour, and I write Rust when I want things fast and correct, Dart when I want a cross platform app running, and spend a suspicious amount of time teaching machines to be smarter than us. I'm the kind of person who gets genuinely excited about a clean abstraction or a model that's interpretable. Fully convinced that good software should feel a little bit like magic. Always open to interesting problems, collaborations, or opportunities to build something people actually rely on. Feel free to reach out.
 
 <br>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
 
 📫 How to reach me: 
-- Email: [d3v1ll3n@gmail.com](mailto:d3v1ll3n@gmail.com)
+- Email: [amirhosseinghanipour@proton.me](mailto:amirhosseinghanipour@proton.me)
 - LinkedIn: [in/amirhosseinghanipour](https://linkedin.com/in/amirhosseinghanipour/)
 
 <br>
