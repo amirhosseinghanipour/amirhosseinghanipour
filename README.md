@@ -14,7 +14,7 @@
   OS: Arch x86_64
   Languages: ["Rust", "Go", "C/C++", "Python", "Dart", "JavaScript"]
   Intrests: ["Linux", "AI/ML", "RTOS", "Kernel Hardening", "Android", "LSM", "eBPF & XDP", "Artificial Intelligence"]  
-  Uptime: 26 Years
+  Uptime: 27 Years
   ```
 </div>
 
