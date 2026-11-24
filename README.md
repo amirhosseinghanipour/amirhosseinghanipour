@@ -25,7 +25,11 @@
 <a href="https://crates.io/users/amirhosseinghanipour" target="_blank"><img src="https://img.shields.io/badge/crates.io-000000?style=for-the-badge&logo=rust&logoColor=white" height="30"></a>&nbsp;
 </p>
 
-Hello, world! I'm Amirhossein Ghanipour, and I write Rust when I want things fast and correct, Dart when I want a cross platform app running, and spend a suspicious amount of time teaching machines to be smarter than us. I'm the kind of person who gets genuinely excited about a clean abstraction or a model that's interpretable. Fully convinced that good software should feel a little bit like magic. Always open to interesting problems, collaborations, or opportunities to build something people actually rely on. Feel free to reach out.
+Hello world! I'm Amirhossein Ghanipour Amirhandeh, a machine learning researcher and software engineer working on speech and natural language processing.
+
+My primary interest lies inside the model like understanding what neural networks actually learn, how representations form and disentangle, and why architectures behave the way they do beneath their benchmarks. Outside of research, I'm a Rustacean and build cross-platform software in Flutter. Also, I'm actively maintaining my arch-based distro [Archelinux](https://archelinux.github.io/archelinux.org/index.html) for nerds and modal evangelists just like you.
+
+Always happy to connect, chat about research, or explore collaborations.
 
 <br>
 
